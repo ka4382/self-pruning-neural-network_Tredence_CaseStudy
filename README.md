@@ -1,4 +1,4 @@
-# self-pruning-neural-network_Tredence_CaseStudy
+# Tredence_CaseStudy
 
 # Self-Pruning Neural Network
 
